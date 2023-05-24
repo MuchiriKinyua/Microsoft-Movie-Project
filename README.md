@@ -14,7 +14,7 @@ This project aims to help Microsoft's new movie studio make informed decisions a
  To visualize movie budgets (especially using the tn movie budgets file).
  Understanding how different branches of the entire movie field affect the company reputation and sequentials for thaat matter. E.g., rating, genre, runtime.
 ## Notebook Structure
- Introduction¶ /n
+ Introduction¶ </br>
  Problem Statement
  Main Objective
  Specific Objectives
