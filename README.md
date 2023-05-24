@@ -1,7 +1,6 @@
 # microsoft-movie-project
 
 Name: Nicholas Muchiri Kinyua
-
 ## Introduction¶
 ## Problem Statement
 ## Main Objective
