@@ -10,16 +10,16 @@ Microsoft wants to get into the movie industry. However they don't know much abo
 ## Main Objective
 This project aims to help Microsoft's new movie studio make informed decisions about the types of films to create. By analyzing data from the film industry, insights and trends that will assist in identifying successful strategies for the studio can be uncovered.
 ## Specific Objectives
- Identify the most successful movie genres that microsoft head will use to make a prompt decision on which type of movies to put more focus on.
- To visualize movie budgets (especially using the tn movie budgets file).
- Understanding how different branches of the entire movie field affect the company reputation and sequentials for thaat matter. E.g., rating, genre, runtime.
+1. Identify the most successful movie genres that microsoft head will use to make a prompt decision on which type of movies to put more focus on. </br>
+2. To visualize movie budgets (especially using the tn movie budgets file). </br>
+3. Understanding how different branches of the entire movie field affect the company reputation and sequentials for thaat matter. E.g., rating, genre, runtime. 
 ## Notebook Structure
  Introduction¶ </br>
- Problem Statement
- Main Objective
- Specific Objectives
- Notebook Structure
- Conclusions
- Recommendations
+ Problem Statement </br>
+ Main Objective </br>
+ Specific Objectives </br>
+ Notebook Structure </br>
+ Conclusions </br>
+ Recommendations </br>
 ## Conclusions
 ## Recommendations
