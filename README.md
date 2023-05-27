@@ -19,6 +19,8 @@ This project aims to help Microsoft's new movie studio make informed decisions a
  Main Objective </br>
  Specific Objectives </br>
  Notebook Structure </br>
+ Data cleaning </br>
+ Data visualizations </br>
  Conclusions </br>
  Recommendations </br>
 ## Conclusions
