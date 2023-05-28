@@ -36,4 +36,6 @@ The more you invest the more you garner more gross profit. This is evident since
 ## References
 bom_movie gross file </br>
 rt.movie_info file </br>
-tn.movie_budgets file
+tn.movie_budgets file </br>
+
+![MM](https://github.com/MuchiriKinyua/microsoft-movie-project/assets/113877377/a419940a-0304-4c59-b466-8f85d2ef40b9)
